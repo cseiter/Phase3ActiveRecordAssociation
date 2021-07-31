@@ -268,3 +268,5 @@ Drake is not found in the database already. Once found or created, assign this
 song to the drake Artist instance.
 
 **Hint**: Look into the `.find_or_create_by` Active Record method!
+# Phase3ActiveRecordAssociation
+# Phase3ActiveRecordAssociation
